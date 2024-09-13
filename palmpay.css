@@ -1,0 +1,250 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#sector-1{
+    height: 4rem;
+    background-color: white;
+    position: fixed;
+    width: 100%;
+
+}
+.sector-1{
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+
+
+#sector-3{
+   background: linear-gradient(white, #000000);
+}
+#sector-4{
+    background-color:  #000000;
+ 
+}
+.ioi{
+    justify-content: center;
+}
+
+
+@media screen and (max-width:2560px) 
+{
+    .po img {
+        margin-left: 15rem;
+        width: 50rem;
+        
+        
+    }
+}
+@media screen and (max-width:1115px) 
+{
+    .po img {
+        margin-left: 13rem;
+        width: 45rem;
+        
+        
+    }
+}
+
+
+@media screen and (max-width:1024px) 
+{
+    .po img {
+      margin-left: 12rem;
+        width: 40rem;
+        
+        
+    }
+}
+@media screen and (max-width:950px) 
+{
+    .po img {
+       margin-left: 10rem;
+        width: 40rem;
+        
+        
+    }
+}
+@media screen and (max-width:908px) 
+{
+    .po img {
+       margin-left: 8rem;
+        width: 40rem;
+        
+        
+    }
+}
+@media screen and (max-width:785px) 
+{
+    .po img {
+       margin-left: 7rem;
+        width: 35rem;
+        
+        
+    }
+}
+@media screen and (max-width:689px) 
+{
+    .po img {
+       margin-left: 6rem;
+        width: 30rem;
+        
+        
+    }
+}
+
+
+@media screen and (max-width:2560px) 
+{
+    .lopo img{
+        width:55rem; 
+        margin-left: 14rem; 
+        height: 25rem;
+    }
+}
+@media screen and (max-width:1115px) 
+{
+    .lopo img {
+        margin-left: 8rem;
+        width: 50rem;
+        
+        
+    }
+}
+@media screen and (max-width:956px) 
+{
+    .lopo img {
+        margin-left: 7rem;
+        width: 40rem;
+        height: 20rem;
+        
+        
+    }
+}
+@media screen and (max-width:785px) 
+{
+    .lopo img {
+        margin-left: 6rem;
+        width: 35rem;
+        height: 18rem;
+        
+        
+    }
+}
+@media screen and (max-width:689px) 
+{
+    .lopo img {
+        margin-left: 5rem;
+        width: 30rem;
+        height: 16rem;
+        
+        
+    }
+}
+@media screen and (max-width:2560px) 
+{
+    .oo img {
+        margin-left: 10rem;
+        width: 70rem;
+        
+        
+    }
+}
+@media screen and (max-width:1115px) 
+{
+    .oo img {
+        margin-left: 11rem;
+        width: 45rem;
+        
+        
+    }
+}
+@media screen and (max-width:914px) 
+{
+    .oo img {
+        margin-left: 8rem;
+        width: 42rem;
+        
+        
+    }
+}
+@media screen and (max-width:908px) 
+{
+    .oo img {
+        margin-left: 8rem;
+        width: 40rem;
+        
+        
+    }
+}
+@media screen and (max-width:785px) 
+{
+    .oo img {
+        margin-left: 7rem;
+        width: 35rem;
+        
+        
+    }
+}
+@media screen and (max-width:689px) 
+{
+    .oo img {
+        margin-left: 6rem;
+        width: 30rem;
+        
+        
+    }
+}
+@media screen and (max-width:2560px) 
+{
+    .cop img {
+        margin-left: 13rem;
+        width: 50rem;
+        height: 25rem;
+        
+        
+    }
+}
+@media screen and (max-width:1024px) 
+{
+    .cop img {
+        margin-left: 10rem;
+        width: 45rem;
+        height: 25rem;
+        
+        
+    }
+}
+@media screen and (max-width:949px) 
+{
+    .cop img {
+        margin-left: 8rem;
+        width: 40rem;
+        height: 20rem;
+    }
+}
+@media screen and (max-width:785px) 
+{
+    .cop img {
+        margin-left: 4rem;
+        width: 35rem;
+        height: 18rem;
+    }
+}
+@media screen and (max-width:2560px) {
+    .my-name {
+        display: flex; border-radius: 3rem;background-color:rgb(247, 237, 237);width: 70rem;margin-left: 8rem;position: relative;height: 27rem;border: 2rem;margin-top: 10rem;position: sticky;
+    }
+}
+@media screen and (max-width:1115px) {
+    .my-name {
+        display: flex; border-radius: 3rem;background-color:rgb(247, 237, 237);width: 60rem;margin-left: 8rem;position: relative;height: 27rem;border: 2rem;margin-top: 10rem;position: sticky;
+    }
+}
+@media screen and (max-width:1115px) {
+    .my-name {
+        display: flex; border-radius: 3rem;background-color:rgb(247, 237, 237);width: 60rem;margin-left: 8rem;position: relative;height: 27rem;border: 2rem;margin-top: 10rem;position: sticky;
+    }
+}
